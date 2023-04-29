@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "886382571417",
+    "firebase_url": "https://sfood-d03ef-default-rtdb.firebaseio.com",
+    "project_id": "sfood-d03ef",
+    "storage_bucket": "sfood-d03ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886382571417:android:d915f256d164e607aaad08",
+        "android_client_info": {
+          "package_name": "com.kobirbappy.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886382571417-ijhciaq6919emeq3bqir0v7k8dvv5l1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHn5z4-zhFPyyT_uOG0HqnliE-R78Aq9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886382571417-ijhciaq6919emeq3bqir0v7k8dvv5l1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+   
+  ],
+  "configuration_version": "1"
+}
